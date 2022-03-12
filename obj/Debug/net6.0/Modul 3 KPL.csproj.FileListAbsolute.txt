@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Modul 3 KPL\bin\Debug\net6.0\Modul 3 KPL.exe
+C:\Users\ASUS\source\repos\Modul 3 KPL\bin\Debug\net6.0\Modul 3 KPL.deps.json
+C:\Users\ASUS\source\repos\Modul 3 KPL\bin\Debug\net6.0\Modul 3 KPL.runtimeconfig.json
+C:\Users\ASUS\source\repos\Modul 3 KPL\bin\Debug\net6.0\Modul 3 KPL.dll
+C:\Users\ASUS\source\repos\Modul 3 KPL\bin\Debug\net6.0\Modul 3 KPL.pdb
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\Modul 3 KPL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\Modul 3 KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\Modul 3 KPL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\Modul 3 KPL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\Modul 3 KPL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\Modul 3 KPL.dll
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\refint\Modul 3 KPL.dll
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\Modul 3 KPL.pdb
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\Modul 3 KPL.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Modul 3 KPL\obj\Debug\net6.0\ref\Modul 3 KPL.dll
